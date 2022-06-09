@@ -870,7 +870,6 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-tlf-t1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -878,8 +877,6 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-Italic-tlf-t1.vf
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
@@ -892,7 +889,6 @@ INPUT template.aux
 INPUT ./template.out
 INPUT ./template.out
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
