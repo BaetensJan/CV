@@ -18,6 +18,8 @@
 \RequirePackage{pgffor}
 \RequirePackage{marvosym}
 \RequirePackage{parskip}
+\RequirePackage{multicol}
+\RequirePackage{fontawesome}
 
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ProcessOptions\relax
@@ -90,6 +92,15 @@
 			}
 		\end{tikzpicture}
 	}
+}
+
+
+\newcommand{\ratingmarker}{\faCircle}
+
+\newcommand{\cvskill}[2]{%
+\textcolor{black}{\textbf{#1}}\hfill
+\foreach \x in {1,...,5}{%
+  \space{\ifnumgreater{\x}{#2}{\color{black!80!white!30}}{\color{mainblue!70!black}}\ratingmarker}}\par%
 }
 
 % Command for printing skills text
