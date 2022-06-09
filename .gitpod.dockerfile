@@ -1,1 +1,1 @@
-FROM paperist/alpine-texlive-ja
+FROM texlive/texlive:latest
