@@ -869,7 +869,6 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -883,6 +882,7 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/intel/clearsans/ClearSans-tlf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm
 INPUT template.aux

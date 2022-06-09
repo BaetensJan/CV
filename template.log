@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.5)  9 JUN 2022 08:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.5)  9 JUN 2022 09:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -599,15 +599,6 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not availa
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 20.74pt on input line 65.
-
-Overfull \hbox (0.4pt too wide) in paragraph at lines 65--65
-[][] 
- []
-
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 65.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 65.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
@@ -638,7 +629,12 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 12.0pt on input line 133.
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./portrait.png>] (./template.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./portrait.png>]
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 148.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 148.
+ [2] (./template.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -646,18 +642,18 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20920 strings out of 478293
- 394676 string characters out of 5844974
- 684439 words of memory out of 5000000
- 38746 multiletter control sequences out of 15000+600000
+ 20924 strings out of 478293
+ 394741 string characters out of 5844974
+ 679555 words of memory out of 5000000
+ 38749 multiletter control sequences out of 15000+600000
  510742 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,16n,118p,743b,889s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on template.pdf (1 page, 91669 bytes).
+Output written on template.pdf (2 pages, 92227 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 38 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

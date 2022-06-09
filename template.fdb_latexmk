@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1654765025 "/workspace/CV/template.tex" "template.pdf" "template" 1654765025
+["pdflatex"] 1654766007 "/workspace/CV/template.tex" "template.pdf" "template" 1654766008
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc" 1571259062 3006 bee092328c2beafee1f162d4e38aad34 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-tlf-t1--base.tfm" 1571259062 1632 96d3eb37b563271f49f67f9dae0e3648 ""
@@ -141,12 +141,12 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1654402534 4588858 9c6720708242ff9873751d994247f548 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1654402547 2829165 6cad173bba954887d404c886a82655bd ""
   "/usr/local/texlive/2022/texmf.cnf" 1654402531 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "/workspace/CV/template.tex" 1654765024 8812 72f835989f8bf50cf0b795ace90513dc ""
+  "/workspace/CV/template.tex" 1654766007 8988 9ab1876243bbcd6620ff2072645082da ""
   "portrait.png" 1654763832 33768 ec06e6a6a9fd755afe91191c936a04a9 ""
-  "template.aux" 1654765025 598 0f390f0c3c48030f75199e3701787936 "pdflatex"
+  "template.aux" 1654766008 643 26ab9461f2663da60246ccf7de027d0e "pdflatex"
   "template.out" 0 -1 0 "pdflatex"
-  "template.tex" 1654765024 8812 72f835989f8bf50cf0b795ace90513dc ""
-  "twentysecondcv.cls" 1654760484 8402 285da1a97655bcfbc1739fac89cf8bbb ""
+  "template.tex" 1654766007 8988 9ab1876243bbcd6620ff2072645082da ""
+  "twentysecondcv.cls" 1654765995 8636 d0263bf1cc808940400f70fc616bb376 ""
   (generated)
   "template.aux"
   "template.log"

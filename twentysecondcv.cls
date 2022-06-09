@@ -156,17 +156,18 @@
 		}
 
 		%------------------------------------------------
-
-		\profilesection{Skills}
-
-		\skills
-		\skillstext
-		\scriptsize
-		(*)[The skill scale is from 0 (Fundamental Awareness) to 6 (Expert).]
-			
-		%------------------------------------------------
-			
+		
 	\end{textblock}
+}
+
+%----------------------------------------------------------------------------------------
+%	 Empty Sidebar
+%----------------------------------------------------------------------------------------
+
+\newcommand{\makeemptyprofile}{
+	\begin{tikzpicture}[remember picture,overlay]
+   		\node [rectangle, fill=sidecolor, anchor=north, minimum width=9cm, minimum height=\paperheight+1cm] (box) at (-5cm,0.5cm){};
+	\end{tikzpicture}
 }
 
 %----------------------------------------------------------------------------------------
